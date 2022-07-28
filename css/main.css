@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+.container .card .card-body #connectChannels {
+  display: none;
+}
+
+/*# sourceMappingURL=main.css.map */
